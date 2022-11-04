@@ -1,3 +1,7 @@
 test
 
 zmiana szczerbp
+
+
+
+zmiana na branchu szczerbp2
